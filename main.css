@@ -1,0 +1,75 @@
+main {
+  width: 450px;
+}
+
+p {
+  margin: 0;
+}
+.ten {
+  display: block;
+  font-family: "Fira Sans", serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.left-side {
+  float: left;
+  width: 200px;
+}
+.right-side {
+  float: left;
+  width: 200px;
+}
+span {
+  font-family: "Righteous", cursive;
+}
+
+#square-one {
+  background-color: #cd5c5c;
+  padding: 51px 10px 142px 10px;
+  border-top: 5px solid navy;
+  border-left: 5px solid navy;
+}
+
+#square-two {
+  background: #ffa500;
+  border-top: 5px solid navy;
+  border-right: 5px solid navy;
+  padding: 10px 10px 10px 10px;
+}
+
+#square-three {
+  background: royalblue;
+  border-right: 5px solid navy;
+  padding: 10px 20px 20px 10px;
+}
+
+#square-four {
+  border-left: 5px solid navy;
+  padding: 30px 20px 43px 20px;
+  background: #33cccc;
+}
+#square-five {
+  background: green;
+  border-right: 5px solid navy;
+  padding: 30px 20px 20px 20px;
+}
+
+#square-six {
+  border-left: 5px solid navy;
+  padding: 60px 30px 50px 30px;
+  background: royalblue;
+}
+
+#square-seven {
+  border-left: 5px solid navy;
+  border-bottom: 5px solid navy;
+  background: #ffa500;
+  padding: 40px 40px 44px 40px;
+}
+#square-eight {
+  border-right: 5px solid navy;
+  border-bottom: 5px solid navy;
+  padding: 30px 25px 20px 25px;
+  background: #cd5c5c;
+}
